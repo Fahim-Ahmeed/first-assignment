@@ -1,0 +1,103 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.heading{
+    margin:0;
+    padding:0;
+    height:600px;
+    margin-bottom: 200px;
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+   
+}
+section div{
+    height: 100%;
+    width:40%;
+    float:left;
+    
+}
+section div img{
+    width:100%;
+    height:100%;
+    position: relative;
+    right:70px;
+    bottom: 60px;
+
+   
+}
+#text-head{
+    position: relative;
+    left:100px;
+    top:200px;
+}
+
+h1{
+    color:#ff1493;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hsl(328, 61%, 55%),#ff1493);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight:700;
+}
+.biography{
+    margin:0;
+    padding:0;
+    height:600px;
+    margin-bottom: 100px;
+    background-image: url("../images/biography-bg.png");
+    background-repeat: no-repeat;
+   
+}
+.work-part{
+    height:200px;
+    width:30%;
+    padding-top:2.5%;
+    padding-left:1%;
+    margin-left:1%;
+    float:left;
+    
+   
+    
+}
+.work-part img{
+    height:100%;
+    width: 100%;
+}
+.main-div{
+    margin-bottom: 150px;
+    margin-left:80px;
+    width:90%;
+    height:300px;
+    background-image: url('../images/latest-work-bg.png');
+    background-repeat: no-repeat;
+   
+}
+.main-div h2{
+    text-align:center;
+}
+.last-section{
+    width:100%;
+    height:500px;
+    border:2px solid red;
+}
+.last-section h2{
+    text-align:center;
+}
+.color-div{
+    border-radius:7px;
+    margin:auto;
+    margin-top:70px;
+    height:90px;
+    width:500px;
+    background-color:#ff1493;
+}
+.client{
+    margin:0;
+    padding-bottom:100px;
+    height:400px;
+    background-image:url("../images/footer-bg.png");
+    background-repeat: no-repeat;
+}
