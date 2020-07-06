@@ -7,6 +7,7 @@ body{
     height:600px;
     margin-bottom: 200px;
     background-image: url("../images/header-bg.png");
+    background-size:cover;
     background-repeat: no-repeat;
    
 }
@@ -21,7 +22,7 @@ section div img{
     height:100%;
     position: relative;
     right:70px;
-    bottom: 60px;
+    bottom: 40px;
 
    
 }
@@ -29,6 +30,7 @@ section div img{
     position: relative;
     left:100px;
     top:200px;
+    flex-wrap: wrap;
 }
 
 h1{
@@ -71,6 +73,7 @@ a{
     margin-left:80px;
     width:90%;
     height:500px;
+    flex-wrap: wrap;
     background-size: 100% 100%;
     background-image: url('../images/latest-work-bg.png');
     background-repeat: no-repeat;
@@ -93,6 +96,7 @@ a{
     
     width:100%;
     height:500px;
+    flex-wrap: wrap;
     background-size:cover;
     background-image:url("../images/footer-bg2.png");
     background-repeat: no-repeat;
