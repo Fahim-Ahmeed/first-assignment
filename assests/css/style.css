@@ -22,7 +22,7 @@ section div img{
     height:100%;
     position: relative;
     right:70px;
-    bottom: 40px;
+    
 
    
 }
@@ -48,36 +48,14 @@ a{
     margin-left:30px;
     padding-left:30px;
     height:600px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     background-image: url("../images/biography-bg.png");
     background-repeat: no-repeat;
    
 }
 
-.main-div{
-    margin-bottom:;
-    margin-left:80px;
-    width:90%;
-    height:500px;
-    flex-wrap: wrap;
-    background-size: 100% 100%;
-    background-image: url('../images/latest-work-bg.png');
-    background-repeat: no-repeat;
+
    
-}
-.main-div h2{
-    text-align:center;
-}
-
-
-.color-div{
-    border-radius:7px;
-    margin:auto;
-    margin-top:70px;
-    height:90px;
-    width:500px;
-    background-color:#ff1493;
-}
 .client{
     margin-top: 200px;
     width:100%;
