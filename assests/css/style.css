@@ -34,7 +34,7 @@ section div img{
 }
 
 h1{
-    color:#ff1493;
+    color:#696768;
 }
 a{
     text-decoration: none;
@@ -52,6 +52,13 @@ a{
     background-image: url("../images/biography-bg.png");
     background-repeat: no-repeat;
    
+}
+.color-div{
+    border-radius: 7px;
+    margin: auto;
+    height: 90px;
+    width: 500px;
+    background-color: #ff1493;
 }
 
 
